@@ -3,5 +3,5 @@
 * Provided insightful information from the dataset.
 * Engineered features from the various columns such as total_rooms, households, population & total_bedrooms to see if the new columns will have a higher correlation
 * Optimized Linear, Decision Tree & Random Forest Regressor to arrive to the best model.
-![](https://github.com/lindamukami/Carlifornia-house-pricing-dataset/blob/main/download.png)
+![](Linda-portfolio/download.png)
 
